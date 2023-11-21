@@ -1,3 +1,7 @@
+//En este algoritmo se ingresa una cantidad y se plantan zanahrias y lechugas
+//Autor: Antonio Balderas
+//Fecha: 21 de Noviembre de 2023
+//Correo: josebalderasm90@gmail.com
 Proceso Sembrado_zanahorias
 	
 	definir z, l como entero;
