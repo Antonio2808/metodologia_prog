@@ -1,3 +1,7 @@
+//Este algoritmo que saca una probabilidad
+//Autor: Antonio Balderas
+//Fecha: 21 de Noviembre de 2023
+//Correo: josebalderasm90@gmail.com
 Proceso Boleto_de_loteria
 	
 	definir b, c, x como entero;
@@ -8,7 +12,7 @@ Proceso Boleto_de_loteria
 	x<- 1;
 	c<- azar(101);
 	mientras b <> c Hacer
-		c<- azar(101);
+		c<- azar(100);
 		x<- x+1;
 		
 	FinMientras
