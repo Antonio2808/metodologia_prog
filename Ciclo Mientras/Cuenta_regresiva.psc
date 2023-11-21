@@ -1,3 +1,7 @@
+//En este algoritmo se ingresa un numero y se hace una cuenta regresiva
+//Autor: Antonio Balderas
+//Fecha: 21 de Noviembre de 2023
+//Correo: josebalderasm90@gmail.com
 Proceso Cuenta_regresiva
 	
 	definir c como entero;
