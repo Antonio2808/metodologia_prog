@@ -1,3 +1,7 @@
+//Algoritmo hecho en clase que separa las calificaciones
+//Autor: Antonio Balderas
+//Fecha: 21 de Noviembre de 2023
+//Correo: josebalderasm90@gmail.com
 Proceso Calificaciones_en_cadena
 	
 	definir calif como cadena;
