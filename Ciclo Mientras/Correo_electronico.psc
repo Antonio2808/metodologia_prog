@@ -1,3 +1,7 @@
+//En este algoritmo se valida un correo electronico
+//Autor: Antonio Balderas
+//Fecha: 21 de Noviembre de 2023
+//Correo: josebalderasm90@gmail.com
 Proceso Correo_electronico
 	Definir correo como texto;
 	Definir co,arr, pun, lo Como Entero;
