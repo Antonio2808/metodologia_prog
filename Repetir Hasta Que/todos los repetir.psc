@@ -1,3 +1,7 @@
+//Autor: Jose Antonio Balderas Melchor
+//En este algoritmo junte todos los ciclos repetir hasta que
+//28 de Noveimbre de 2023
+//josebalderasm90@gmail.com
 SubProceso opcion<-programas
 	definir opcion, n, a, x como entero;
 	definir vocal Como Caracter;
@@ -20,9 +24,9 @@ SubProceso opcion<-programas
 				
 				Escribir "Ingrese un caracter";
 				leer vocal;
-			Hasta Que vocal="a" o vocal="á" o vocal="e" o vocal="é" o vocal="i" o vocal="i" o vocal="o" o vocal="ó" o vocal="u" o vocal="ú"
+			Hasta Que vocal="a" o vocal="Ã¡" o vocal="e" o vocal="Ã©" o vocal="i" o vocal="i" o vocal="o" o vocal="Ã³" o vocal="u" o vocal="Ãº"
 			
-			si vocal="a" o vocal="á" o vocal="e" o vocal="é" o vocal="i" o vocal="i" o vocal="o" o vocal="ó" o vocal="u" o vocal="ú" Entonces
+			si vocal="a" o vocal="Ã¡" o vocal="e" o vocal="Ã©" o vocal="i" o vocal="i" o vocal="o" o vocal="Ã³" o vocal="u" o vocal="Ãº" Entonces
 				escribir "Has ingresado la letra correcta!!!";
 			FinSi
 			Esperar Tecla;
