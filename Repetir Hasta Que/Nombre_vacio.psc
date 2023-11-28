@@ -1,6 +1,9 @@
+//Autor: Jose Antonio Balderas Melchor
+// En este algoritmo que valida un nombre en base a su longitud
+// 27 de Noviembre de 2023
 Proceso Nombre_vacio
 	definir nombre como texto;
-	
+
 	Repetir
 		Escribir "Ingresa un nombre";
 		leer nombre;
