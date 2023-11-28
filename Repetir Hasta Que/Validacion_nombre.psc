@@ -1,3 +1,7 @@
+//Autor: Jose Antonio Balderas Melchor
+//En este algoritmo se validara un nombre que tengas mas de 3 caracteres
+//27 de Noveimbre de 2023
+//josebalderasm90@gmail.com
 Proceso Validacion_nombre
 	
 	definir nombre como texto;
