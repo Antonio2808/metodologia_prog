@@ -1,5 +1,6 @@
 //Autor: Jose Antonio Balderas Melchor
 //En este algoritmo junte todos los ciclos repetir hasta que
+//usando una funcion llamada subproceso
 //28 de Noveimbre de 2023
 //josebalderasm90@gmail.com
 SubProceso opcion<-programas
