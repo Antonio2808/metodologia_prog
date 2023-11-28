@@ -1,6 +1,7 @@
 //Autor: Jose Antonio Balderas Melchor
 // En este algoritmo que valida un nombre en base a su longitud
 // 27 de Noviembre de 2023
+//josebalderasm90@gmail.com
 Proceso Nombre_vacio
 	definir nombre como texto;
 
