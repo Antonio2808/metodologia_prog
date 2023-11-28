@@ -1,3 +1,7 @@
+//Autor: Jose Antonio Balderas Melchor
+//En este algoritmo se validaran solo numeros en un cierto rango predeterminado
+//27 de Noveimbre de 2023
+//josebalderasm90@gmail.com
 Proceso Validacion_de_rango_de_numero
 	definir n como entero;
 	
