@@ -1,3 +1,7 @@
+//Autor: Jose Antonio Balderas Melchor
+//En este algoritmo se validaran numeros de dos diferentes rangos
+//28 de Noveimbre de 2023
+//josebalderasm90@gmail.com
 Proceso Validacion_rangos_numeros
 	definir n como entero;
 	
