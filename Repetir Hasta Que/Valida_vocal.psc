@@ -1,6 +1,7 @@
 //Autor: Jose Antonio Balderas Melchor
 //En este algoritmo solo se aceptaran las vocales
 //27 de Noviembre de 2023
+//josebalderasm90@gmail.com
 Proceso Valida_vocal
 	definir vocal como texto;
 	
